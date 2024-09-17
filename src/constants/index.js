@@ -145,7 +145,7 @@ export const educationList = [
     content1: "Graduated with a distinction in the fifth cohort of the Polkadot Blockchain Academy at the National University of Singapore.",
   },*/
 ];
-/*
+
 export const achievements = [
   {
     id: "a-1",
@@ -160,7 +160,7 @@ export const achievements = [
     youtube: "https://youtu.be/9rieTya8Yds?t=3908",
   }
   
-];*/
+];
 
 
 export const skills = [
