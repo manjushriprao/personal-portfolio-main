@@ -72,6 +72,7 @@ import {
   SiOpenai,
   SiGooglecloud,
   SiNextdotjs,
+  SiAccenture,
   SiMicrosoftazure
 } from "react-icons/si";
 
@@ -268,7 +269,7 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Accenture, India",
-    logo: oracle,
+    logo: SiAccenture,
     link: "https://www.oracle.com/in/",
     positions: [
       {
