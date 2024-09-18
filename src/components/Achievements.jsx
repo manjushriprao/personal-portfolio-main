@@ -106,7 +106,7 @@ const AchievementCard = (props) => {
         <p className="font-poppins italic font-normal text-lg text-gradient mb-3">
           {props.position}
         </p>
-        {props.content1 && (
+        {/* {props.content1 && (
           <p className="font-poppins font-normal text-dimWhite text-sm mb-1">
             🚀 {props.content1}
           </p>
@@ -120,11 +120,11 @@ const AchievementCard = (props) => {
           <p className="font-poppins font-normal text-dimWhite text-sm mb-4">
             🔥 {props.content3}
           </p>
-        )}
+        )}*/}
       </div>
 
       <div className="flex flex-row mb-2 font-poppins font-normal text-dimWhite">
-        {props.article && (
+        {/* {props.article && (
           <a
             className="inline-flex items-center mr-2 hover:text-teal-200"
             href={props.article}
@@ -143,7 +143,7 @@ const AchievementCard = (props) => {
           >
             <FaYoutube size="1.5rem" className="inline" />
           </a>
-        )}
+        )} */}
         {props.github && (
           <a
             className="inline-flex items-center mr-2 hover:text-teal-200"
