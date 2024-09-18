@@ -111,7 +111,7 @@ export const navLinks = [
   },
   {
     id: "achievements",
-    title: "Certifications",
+    title: "Achievements",
   },
   {
     id: "projects",
