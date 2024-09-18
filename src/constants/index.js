@@ -26,7 +26,6 @@ import {
   dennisivy,
   manipal,
   icon,
-  accenture,
   ethforall
 } from "../assets";
 
