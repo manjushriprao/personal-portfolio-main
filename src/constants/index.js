@@ -26,6 +26,7 @@ import {
   dennisivy,
   manipal,
   icon,
+  accenture,
   ethforall
 } from "../assets";
 
@@ -281,8 +282,8 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Accenture, India",
-    logo: oracle,
-    link: "https://www.oracle.com",
+    logo: accenture,
+    link: "https://www.accenture.com",
     positions: [
       {
         title: "DevOps Engineer",
