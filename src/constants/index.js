@@ -157,7 +157,7 @@ export const achievements = [
     icon: aws,
     event: "AWS Certified Cloud Practitioner",
     position: "Certified",
-    project: "",
+    project: "https://www.credly.com/badges/b70115e5-a862-42b7-b92e-7526ab0202ab?source=linked_in_profile",
   },
   { 
     id: "a-2",
@@ -171,7 +171,7 @@ export const achievements = [
     icon: istqb,
     event: "ISTQB Foundation level certification in Software Testing",
     position: "Certified",
-    project: "",
+    project: "https://www.credly.com/badges/b70115e5-a862-42b7-b92e-7526ab0202ab?source=linked_in_profile",
   }  
 ];
 
