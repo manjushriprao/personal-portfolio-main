@@ -29,7 +29,7 @@ import {
   ethforall
 } from "../assets";
 import accenture from "../assets/accenture.png"
-import accenture from "../assets/bnmit.png"
+import bnmit from "../assets/bnmit.png"
 import {
   AiFillGithub,
   AiFillInstagram,
