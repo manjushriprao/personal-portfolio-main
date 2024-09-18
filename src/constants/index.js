@@ -29,6 +29,8 @@ import {
   ethforall
 } from "../assets";
 
+import { accenture } from "../assets";
+
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -282,7 +284,7 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Accenture, India",
-    icon: SiAccenture,
+    logo: accenture,
     link: "https://www.accenture.com",
     positions: [
       {
