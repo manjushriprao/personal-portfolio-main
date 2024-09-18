@@ -26,7 +26,8 @@ import {
   dennisivy,
   manipal,
   icon,
-  ethforall
+  ethforall,
+  accenture
 } from "../assets";
 
 import {
@@ -150,14 +151,14 @@ export const educationList = [
 export const achievements = [
   {
     id: "a-1",
-    icon: aws,
-    event: "AWS Certified Cloud Practitioner",
-    position: "Certified",
+    icon: ethglobal,
+    event: "ETHIndia'22 | World's Largest Ethereum Hackathon",
+    position: "Winner",
     content1: "Top 12 winners among 20k+ registrations",
     content2: "One of Polygon's Best Public Goods",
     content3: "Best Module on Biconomy SDK",
     article: "https://www.thehindu.com/news/cities/Mangalore/nitk-iiit-delhi-team-makes-it-to-top-12-winners-in-ethindia-22/article66238923.ece",
-    project: "",
+    project: "https://devfolio.co/projects/chargeswap-3527",
     youtube: "https://youtu.be/9rieTya8Yds?t=3908",
   }
 /*{
@@ -282,7 +283,7 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Accenture, India",
-    logo: Accenture,
+    logo: accenture,
     link: "https://www.accenture.com",
     positions: [
       {
