@@ -29,8 +29,6 @@ import {
   ethforall
 } from "../assets";
 
-import { accenture } from "../assets";
-
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -93,6 +91,7 @@ import {
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
+export { default as accenture } from "./accenture.png";
 export const resumeLink = "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
 export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
 
