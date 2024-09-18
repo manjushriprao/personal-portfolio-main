@@ -540,6 +540,6 @@ export const socialMedia = [
 
 export const aboutMe = {
     name: "Manjushri P Rao",
-    tagLine: "ex-Accenture | Software Engineer | Automation | Certified in Azure and AWS | Java | python | DevOps | CI/CD | Docker | Kubernetes | GIT | Azure DevOps | Passionate Problem Solver and Team Player |,
+    tagLine: "ex-Accenture | Software Engineer | Automation | Certified in Azure and AWS | Java | python | DevOps | CI/CD | Docker | Kubernetes | GIT | Azure DevOps | Passionate Problem Solver and Team Player",
     intro: "I excel in designing and maintaining robust CI/CD pipelines. I am proficient in automating workflows, managing cloud infrastructure, and ensuring seamless application deployment. Proficient in version control systems like GIT. I have expertise in containerization with Docker and orchestration with Kubernetes. I have a strong background in implementing Agile methodologies for product development. I am highly productive and results-driven in both team and individual tasks, and have a proven ability to learn new technologies quickly.A strong team player, known for my productivity, commitment, and results- driven approach.I quickly learn new technologies and tools, maintain a positive attitude, and possess strong analytical capabilities for problem - solving, I actively contribute to project activities and ensure smooth project delivery."
 }
