@@ -157,9 +157,9 @@ export const achievements = [
     icon: aws,
     event: "AWS Certified Cloud Practitioner",
     position: "Certified",
-    project: "https://devfolio.co/projects/chargeswap-3527",
-  }
- /* { 
+    project: "",
+  },
+  { 
     id: "a-2",
     icon: Azure,
     event: "Microsoft Azure Fundamentals AZ-900",
@@ -172,7 +172,7 @@ export const achievements = [
     event: "ISTQB Foundation level certification in Software Testing",
     position: "Certified",
     project: "",
-  }  */
+  }  
 ];
 
 export const skills = [
