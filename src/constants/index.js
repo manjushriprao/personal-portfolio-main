@@ -282,8 +282,8 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Accenture, India",
-    logo: accenture,
-    link: "https://www.accenture.com",
+    logo: oracle,
+    link: "https://www.oracle.com",
     positions: [
       {
         title: "DevOps Engineer",
