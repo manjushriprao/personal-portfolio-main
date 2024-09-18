@@ -26,8 +26,7 @@ import {
   dennisivy,
   manipal,
   icon,
-  ethforall,
-  accenture
+  ethforall
 } from "../assets";
 
 import {
@@ -73,7 +72,6 @@ import {
   SiOpenai,
   SiGooglecloud,
   SiNextdotjs,
-  SiAccenture,
   SiMicrosoftazure
 } from "react-icons/si";
 
@@ -283,8 +281,8 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Accenture, India",
-    logo: accenture,
-    link: "https://www.accenture.com",
+    logo: oracle,
+    link: "https://www.oracle.com",
     positions: [
       {
         title: "DevOps Engineer",
