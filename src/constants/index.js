@@ -163,8 +163,8 @@ export const achievements = [
     article: "https://www.thehindu.com/news/cities/Mangalore/nitk-iiit-delhi-team-makes-it-to-top-12-winners-in-ethindia-22/article66238923.ece",
     project: "https://devfolio.co/projects/chargeswap-3527",
     youtube: "https://youtu.be/9rieTya8Yds?t=3908",
-  },
-  { 
+  }
+ /* { 
     id: "a-2",
     icon: Azure,
     event: "Microsoft Azure Fundamentals AZ-900",
@@ -177,7 +177,7 @@ export const achievements = [
     event: "ISTQB Foundation level certification in Software Testing",
     position: "Certified",
     project: "",
-  }  
+  }  */
 ];
 
 export const skills = [
