@@ -29,6 +29,7 @@ import {
   ethforall
 } from "../assets";
 import accenture from "../assets/accenture.png"
+import accenture from "../assets/bnmit.png"
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -130,7 +131,7 @@ export const navLinks = [
 export const educationList = [
   {
     id: "education-1",
-    icon: nitk,
+    icon: bnmit,
     title: "BNM Institute of Technology, Bangalore, India",
     degree: "Bachelor of Technology",
     duration: "December 2016 - May 2020",
