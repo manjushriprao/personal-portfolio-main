@@ -150,17 +150,30 @@ export const educationList = [
 export const achievements = [
   {
     id: "a-1",
-    icon: ethglobal,
-    event: "ETHIndia'22 | World's Largest Ethereum Hackathon",
-    position: "Winner",
-    content1: "Top 12 winners among 20k+ registrations",
-    content2: "One of Polygon's Best Public Goods",
-    content3: "Best Module on Biconomy SDK",
-    article: "https://www.thehindu.com/news/cities/Mangalore/nitk-iiit-delhi-team-makes-it-to-top-12-winners-in-ethindia-22/article66238923.ece",
-    project: "https://devfolio.co/projects/chargeswap-3527",
-    youtube: "https://youtu.be/9rieTya8Yds?t=3908",
-  }
-  
+    icon: aws,
+    event: "AWS Certified Cloud Practitioner",
+    position: "Certified",
+    //content1: "Top 12 winners among 20k+ registrations",
+    //content2: "One of Polygon's Best Public Goods",
+    //content3: "Best Module on Biconomy SDK",
+    //article: "https://www.thehindu.com/news/cities/Mangalore/nitk-iiit-delhi-team-makes-it-to-top-12-winners-in-ethindia-22/article66238923.ece",
+    project: "",
+   // youtube: "https://youtu.be/9rieTya8Yds?t=3908",
+  },
+{
+    id: "a-2",
+    icon: Microsoft azure,
+    event: "Microsoft Azure Fundamentals AZ-900",
+    position: "Certified",
+    project: "https://www.credly.com/badges/b70115e5-a862-42b7-b92e-7526ab0202ab?source=linked_in_profile",
+  },
+  {
+    id: "a-3",
+    icon: ISTQB,
+    event: "ISTQB Foundation level certification in Software Testing",
+    position: "Certified",
+    project: "",
+  }  
 ];
 
 
@@ -269,8 +282,8 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Accenture, India",
-    logo: SiAccenture,
-    link: "https://www.oracle.com/in/",
+    logo: Accenture,
+    link: "https://www.accenture.com",
     positions: [
       {
         title: "DevOps Engineer",
@@ -285,7 +298,7 @@ export const experiences = [
     ],
   },
 ];
-
+/*
 export const openSourceContributions = [
   {
     id: "os-1",
@@ -318,7 +331,7 @@ export const openSourceContributions = [
     linesDeleted: "1",
   },
   
-];
+];*/
 
 export const projects = [
   {
@@ -527,6 +540,6 @@ export const socialMedia = [
 
 export const aboutMe = {
     name: "Manjushri P Rao",
-    tagLine: "MTS-1 @Oracle | ex-AccentureSoftware Engineer | Automation | Certified in Azure and AWS | Java | python | DevOps | CI/CD | Docker | Kubernetes | GIT | Azure DevOps | Passionate Problem Solver and Team Player | ex-Tech Lead @IRIS,NITK | ETHIndia'22 Winner | NITK'24",
+    tagLine: "ex-Accenture | Software Engineer | Automation | Certified in Azure and AWS | Java | python | DevOps | CI/CD | Docker | Kubernetes | GIT | Azure DevOps | Passionate Problem Solver and Team Player |,
     intro: "I excel in designing and maintaining robust CI/CD pipelines. I am proficient in automating workflows, managing cloud infrastructure, and ensuring seamless application deployment. Proficient in version control systems like GIT. I have expertise in containerization with Docker and orchestration with Kubernetes. I have a strong background in implementing Agile methodologies for product development. I am highly productive and results-driven in both team and individual tasks, and have a proven ability to learn new technologies quickly.A strong team player, known for my productivity, commitment, and results- driven approach.I quickly learn new technologies and tools, maintain a positive attitude, and possess strong analytical capabilities for problem - solving, I actively contribute to project activities and ensure smooth project delivery."
 }
