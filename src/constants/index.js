@@ -172,6 +172,13 @@ export const achievements = [
     event: "ISTQB Foundation level certification in Software Testing",
     position: "Certified",
     project: "https://www.credly.com/badges/b70115e5-a862-42b7-b92e-7526ab0202ab?source=linked_in_profile",
+  },  
+   {
+    id: "a-4",
+    icon: istqb,
+    event: "Introduction to DevOps",
+    position: "Certified",
+    project: "https://www.credly.com/badges/b70115e5-a862-42b7-b92e-7526ab0202ab?source=linked_in_profile",
   }  
 ];
 
