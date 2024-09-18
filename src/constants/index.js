@@ -161,7 +161,7 @@ export const achievements = [
   },
   { 
     id: "a-2",
-    icon: Azure,
+    icon: azure,
     event: "Microsoft Azure Fundamentals AZ-900",
     position: "Certified",
     project: "https://www.credly.com/badges/b70115e5-a862-42b7-b92e-7526ab0202ab?source=linked_in_profile",
