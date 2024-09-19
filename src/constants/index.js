@@ -538,7 +538,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "manjushriprao447@gmail.com",
+    link: "https://manjushriprao447@gmail.com",
   },
   
 ];
