@@ -9,7 +9,7 @@ import {
   SkillsAndExperience,
   ExtraCurricular,
   Footer,
- // OpenSource,
+  OpenSource,
   Projects,
   BlogPosts,
   Loading,
