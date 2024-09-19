@@ -1,6 +1,6 @@
 import styles from "../style";
 import { motion } from "framer-motion";
-import { name } from "../assets";
+import name from "../assets/name.png";
 
 const Loading = ({isLoading}) => {
     return(
