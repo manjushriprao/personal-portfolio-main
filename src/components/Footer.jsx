@@ -1,7 +1,8 @@
 import React from "react";
 import Button from "./Button";
 import { socialMedia, aboutMe } from "../constants";
-import { Manjushri_profile_pic } from "../assets";
+//import { Manjushri_profile_pic } from "../assets";
+import Manjushri_profile_pic from "../assets/Manjushri_profile_pic.png"
 import { layout } from "../style";
 import { resumeLink, repoLink } from "../constants";
 import { AiFillGithub } from "react-icons/ai";
