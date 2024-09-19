@@ -9,7 +9,7 @@ import {
   SkillsAndExperience,
   ExtraCurricular,
   Footer,
-  OpenSource,
+ // OpenSource,
   Projects,
   BlogPosts,
   Loading,
@@ -61,7 +61,7 @@ const App = () => {
           <div className={`${styles.boxWidth}`}>
             <Projects />
             <BlogPosts enabled={false} />
-            <OpenSource />
+          //  <OpenSource />
             <ExtraCurricular />
           </div>
         </div>
