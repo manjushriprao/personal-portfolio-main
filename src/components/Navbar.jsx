@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { close, parthmittal, menu } from "../assets";
+import { close, menu } from "../assets";
+import name from "../assets/name.png";
 import { navLinks } from "../constants";
 
 const Navbar = () => {
@@ -10,8 +11,8 @@ const Navbar = () => {
       {/* Logo */}
       <a href="#home">
         <img
-          src={parthmittal}
-          alt="Parth Mittal"
+          src={name}
+          alt="Manjushri P Rao"
           className="w-[80px] h-[80px]"
         />
       </a>
