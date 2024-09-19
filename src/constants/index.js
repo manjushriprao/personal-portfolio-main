@@ -303,7 +303,7 @@ export const experiences = [
     ],
   },
 ];
-
+/*
 export const openSourceContributions = [
   {
     id: "os-1",
@@ -336,7 +336,7 @@ export const openSourceContributions = [
     linesDeleted: "1",
   },
   
-];
+];*/
 
 export const projects = [
   {
