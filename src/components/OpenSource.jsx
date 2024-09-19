@@ -3,7 +3,7 @@ import { openSourceContributions } from "../constants";
 import { DiGitMerge, DiGitPullRequest } from "react-icons/di";
 import { VscIssues } from "react-icons/vsc";
 import { motion } from "framer-motion";
-
+/*
 const Contribution = (props) => {
   return (
     <motion.div
@@ -68,8 +68,8 @@ const Contribution = (props) => {
       </div>
     </motion.div>
   );
-};
-
+};*/
+/*
 const OpenSource = () => {
   const [contributions, setContributions] = useState([]);
   const [filterContribution, setFilterContribution] = useState([]);
@@ -131,6 +131,6 @@ const OpenSource = () => {
       </div>
     </section>
   );
-};
+};*/
 
 export default OpenSource;
