@@ -117,7 +117,7 @@ const OpenSource = () => {
               </button>
             ))}
           </div>
-        </div>*/}
+        </div>
 
         <div className="grid grid-cols-1 justify-center gap-8 mt-8 md:mt-16 md:grid-cols-3 sm:grid-cols-2">
           {filterContribution.map((contribution, index) => (
@@ -128,7 +128,7 @@ const OpenSource = () => {
             />
           ))}
         </div>
-      </div>
+      </div>*/}
     </section>
   );
 };
