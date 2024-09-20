@@ -188,7 +188,7 @@ export const skills = [
     title: "Technical Skills",
     items: [
         {
-            id: "pl-6",
+            id: "pl-1",
             icon: DiJava,
             name: "Java",
         },
@@ -198,33 +198,33 @@ export const skills = [
         name: "Python",
       },
       {
-        id: "f-1",
+        id: "p1-3",
         icon: SiSelenium,
         name: "Selenium",
       },
       {
-        id: "t-1",
+        id: "p1-4",
         icon: SiMicrosoftazure,
         name: "Azure",
       },
        {
-        id: "t-3",
+        id: "p1-5",
         icon: SiPostman,
         name: "Postman",
       },
   
       {
-        id: "t-5",
+        id: "p1-6",
         icon: SiGit,
         name: "Git",
       },
       {
-        id: "t-6",
+        id: "p1-7",
         icon: AiFillGithub,
         name: "GitHub",
       },
       {
-        id: "t-7",
+        id: "p1-8",
         icon: AiOutlineGitlab,
         name: "Gitlab",
       },
@@ -235,12 +235,12 @@ export const skills = [
     items: [
       {
         id: "f-1",
-        //icon: SiSelenium,
+        icon: SiSelenium,
         name: "Adaptibility",
       },
       {
-        id: "f-8",
-       // icon: SiDotnet,
+        id: "f-2",
+        icon: SiDotnet,
         name: "Collaboration",
       },
     ],
