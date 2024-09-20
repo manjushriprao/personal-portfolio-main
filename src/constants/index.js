@@ -228,6 +228,11 @@ export const skills = [
         icon: AiOutlineGitlab,
         name: "Gitlab",
       },
+      {
+        id: "p1-9",
+        //icon: AiOutlineGitlab,
+        name: "TestNG",
+      },
     ],
   },
   {
