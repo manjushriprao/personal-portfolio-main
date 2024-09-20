@@ -53,6 +53,7 @@ import {
   SiPython,
   SiCplusplus,
   SiC,
+  SiSelenium,
   SiRubyonrails,
   SiJquery,
   SiVisualstudiocode,
@@ -204,8 +205,8 @@ export const skills = [
     items: [
       {
         id: "f-1",
-        icon: SiDjango,
-        name: "Django",
+        icon: SiSelenium,
+        name: "Selenium",
       },
       {
         id: "f-2",
