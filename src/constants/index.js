@@ -230,7 +230,7 @@ export const skills = [
       },
       {
         id: "p1-9",
-        //icon: AiOutlineGitlab,
+        icon: AiOutlineGitlab,
         name: "TestNG",
       },
     ],
