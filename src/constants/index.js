@@ -185,7 +185,7 @@ export const achievements = [
 
 export const skills = [
   {
-    title: "Programming Languages",
+    title: "Technical Skills",
     items: [
         {
             id: "pl-6",
@@ -196,56 +196,56 @@ export const skills = [
         id: "pl-2",
         icon: SiPython,
         name: "Python",
-      }
-      
-    ],
-  },
-  {
-    title: "Frameworks/Libraries",
-    items: [
+      },
       {
         id: "f-1",
         icon: SiSelenium,
         name: "Selenium",
       },
       {
-        id: "f-2",
-        icon: SiRubyonrails,
-        name: "Ruby on Rails",
+        id: "t-1",
+        icon: SiMicrosoftazure,
+        name: "Azure",
+      },
+       {
+        id: "t-3",
+        icon: SiPostman,
+        name: "Postman",
+      },
+  
+      {
+        id: "t-5",
+        icon: SiGit,
+        name: "Git",
       },
       {
-        id: "f-3",
-        icon: SiReact,
-        name: "ReactJS",
+        id: "t-6",
+        icon: AiFillGithub,
+        name: "GitHub",
       },
       {
-        id: "f-4",
-        icon: SiBootstrap,
-        name: "Bootstrap",
-      },
-      {
-        id: "f-5",
-        icon: SiTailwindcss,
-        name: "Tailwind CSS",
-      },
-      {
-        id: "f-6",
-        icon: SiJquery,
-        name: "jQuery",
-      },
-      {
-        id: "f-7",
-        icon: SiGraphql,
-        name: "GraphQL",
-      },
-      {
-        id: "f-8",
-        icon: SiDotnet,
-        name: ".NET",
+        id: "t-7",
+        icon: AiOutlineGitlab,
+        name: "Gitlab",
       },
     ],
   },
   {
+    title: "Soft Skills",
+    items: [
+      {
+        id: "f-1",
+        //icon: SiSelenium,
+        name: "Adaptibility",
+      },
+      {
+        id: "f-8",
+       // icon: SiDotnet,
+        name: "Collaboration",
+      },
+    ],
+  },
+ /* {
     title: "Tools",
     items: [
       {
@@ -282,7 +282,7 @@ export const skills = [
       
     
     ],
-  },
+  },*/
 ];
 
 export const experiences = [
