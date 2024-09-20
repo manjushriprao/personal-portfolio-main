@@ -33,7 +33,7 @@ import bnmit from "../assets/bnmit.png"
 import aws from "../assets/aws.png"
 import azure from "../assets/azure.png"
 import istqb from "../assets/istqb.png"
-import ci_cd from "../assets/ci_cd.png"
+//import ci_cd from "../assets/ci_cd.png"
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -78,7 +78,7 @@ import {
   SiOpenai,
   SiGooglecloud,
   SiNextdotjs,
-  SiAccenture,
+  SiAzuredevops,
   SiMicrosoftazure
 } from "react-icons/si";
 
@@ -231,8 +231,8 @@ export const skills = [
       },
       {
         id: "p1-9",
-        icon: ci_cd,
-        name: "CI/CD",
+        icon: SiAzuredevops,
+        name: "DevOps",
       },
     ],
   },
