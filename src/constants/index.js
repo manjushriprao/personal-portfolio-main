@@ -33,6 +33,7 @@ import bnmit from "../assets/bnmit.png"
 import aws from "../assets/aws.png"
 import azure from "../assets/azure.png"
 import istqb from "../assets/istqb.png"
+import ci_cd from "../assets/ci_cd.png"
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -230,8 +231,8 @@ export const skills = [
       },
       {
         id: "p1-9",
-        icon: AiOutlineGitlab,
-        name: "TestNG",
+        icon: ci_cd,
+        name: "CI/CD",
       },
     ],
   },
